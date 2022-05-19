@@ -7,7 +7,7 @@ section {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: #3586ff;
+  background: blue;
   overflow: hidden;
 }
 
@@ -30,7 +30,7 @@ section .wave.wave1 {
 }
 
 section .wave.wave2 {
-  animation: animate2 15s linear infinite;
+  animation: animate2 15s linear infin=ite;
   z-index: 999;
   opacity: 0.5;
   animation-delay: -5s;
